@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OctomonsInventoryController
+  - MainLobbyCanvas
+  - OctomonInventoryCanvas
+  - OctomonSlot
+  - OctomonInfoCanvas
+  - InventoryCanvas
+  - FirstTimePlayingCanvas
+  - ProfileCanvas
+  - Profile Button
+  - SettingCanvas
+  - Octomon Data
+  - Octomon Slot
+  - Active Octomon Controller
+  - ActiveOctomonController
+  - Profile Script
+  - ShopCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Lobby Button
+  - Water
+  - UI
+  - Lobby's Octomon Renderer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Main Lobby
+    uniqueID: 2531020833
+    locked: 0
+  - name: Octmon Inventory
+    uniqueID: 4209910671
+    locked: 0
+  - name: First Time Playing UI
+    uniqueID: 1119609325
+    locked: 0
